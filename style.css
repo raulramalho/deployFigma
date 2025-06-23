@@ -1,0 +1,818 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 3767px;
+  position: relative;
+}
+.frame-12 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1357px;
+  position: relative;
+}
+.desktop-1 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 1359px;
+  height: 3767px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-9 {
+  width: 1355px;
+  height: 1722px;
+  position: absolute;
+  left: 0px;
+  top: -15px;
+  overflow: hidden;
+}
+.union {
+  width: 163.2px;
+  height: 48px;
+  position: absolute;
+  left: 33px;
+  top: 37px;
+  overflow: visible;
+}
+.union2 {
+  width: 212px;
+  height: 48px;
+  position: absolute;
+  left: 1109px;
+  top: 49px;
+  overflow: visible;
+}
+.servi-os {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 592px;
+  top: 61px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 944px;
+  top: 61px;
+}
+.ferramentas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 750px;
+  top: 61px;
+}
+.union3 {
+  width: 143.86px;
+  height: 26.58px;
+  position: absolute;
+  left: 1148px;
+  top: 59.76px;
+  overflow: visible;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 259px;
+  top: 61px;
+}
+.sobre-n-s {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 406px;
+  top: 61px;
+}
+.image-2 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 22px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.image-3 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 491px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.image-4 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 942px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.image-5 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 718px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.image-6 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 249px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.image-7 {
+  width: 141.42px;
+  height: 40px;
+  position: absolute;
+  left: 1151px;
+  top: 579px;
+  object-fit: cover;
+  aspect-ratio: 141.42/40;
+}
+.frame-8 {
+  width: 1311px;
+  height: 56px;
+  position: absolute;
+  left: 22px;
+  top: 556px;
+  overflow: hidden;
+}
+.oferecemos-contabilidade-de-qualidade-com-pre-os-acess-veis-garantindo-o-melhor-custo-benef-cio-para-o-seu-neg-cio {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 144px;
+  top: 2038px;
+  width: 590px;
+  height: 136px;
+}
+.frame-10 {
+  background: #cddbff;
+  width: 1279px;
+  height: 1041px;
+  position: absolute;
+  left: 32px;
+  top: 666px;
+  overflow: hidden;
+}
+.peuqenas-e-medias {
+  width: 200.13px;
+  height: 163px;
+  position: absolute;
+  left: 32px;
+  top: 183px;
+  object-fit: cover;
+  aspect-ratio: 200.13/163;
+}
+.autonomos {
+  width: 200.13px;
+  height: 163px;
+  position: absolute;
+  left: 650px;
+  top: 189px;
+  object-fit: cover;
+  aspect-ratio: 200.13/163;
+}
+.e-comerce {
+  width: 241.88px;
+  height: 197px;
+  position: absolute;
+  left: 256px;
+  top: 412px;
+  object-fit: cover;
+  aspect-ratio: 241.88/197;
+}
+.contabilidade-eficiente {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 530px;
+  top: 51px;
+  -webkit-text-stroke: 1px #000cf6;
+}
+.empresas-que-confiam-na-nossa-expertise {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 40px;
+  font-weight: 200;
+  position: absolute;
+  left: 274px;
+  top: 90px;
+  -webkit-text-stroke: 1px #000000;
+}
+.pequenas-e-m-dias-empresas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 242px;
+  top: 183px;
+  width: 349px;
+  -webkit-text-stroke: 1px #000000;
+}
+.atendemos-empresas-que-buscam-uma-contabilidade-eficiente-e-suporte-para-crescimento-sustent-vel {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 242px;
+  top: 222px;
+  width: 376px;
+  height: 97px;
+}
+.profissionais-aut-nomos-e-liberais {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 868px;
+  top: 189px;
+  width: 389px;
+  height: 49px;
+  -webkit-text-stroke: 1px #000000;
+}
+.oferecemos-solu-es-cont-beis-seguras-e-geis-para-foco-no-desenvolvimento {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 868px;
+  top: 238px;
+  width: 366px;
+  height: 108px;
+}
+.e-commerces-e-startups-em-crescimento {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 498px;
+  top: 412px;
+  width: 473px;
+  height: 42px;
+  -webkit-text-stroke: 1px #000000;
+}
+.auxiliamos-neg-cios-digitais-e-startups-a-gerenciarem-suas-finan-as-de-forma-otimizada {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 498px;
+  top: 464px;
+  width: 456px;
+  height: 87px;
+}
+.industria {
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  left: 60px;
+  top: 746px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.abertura-de-ind-strias-planejamento-tribut-rio-folha-de-pagamento-orienta-o-para-emiss-o-de-notas-fiscais-apura-o-mensal-de-impostos-entrega-de-obriga-es-fiscais-balan-o-anual {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  position: absolute;
+  left: 280px;
+  top: 745px;
+  width: 512px;
+  height: 203px;
+}
+.estimativa-de-custos-com-impostos-em-diversos-regimes-tribut-rios-estimativa-de-encargos-trabalhistas-de-acordo-com-o-porte-da-empresa-apura-o-de-lucros-ou-preju-zos-e-emiss-o-de-relat-rios-gerenciais {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  position: absolute;
+  left: 732px;
+  top: 745px;
+  width: 482px;
+  height: 205px;
+}
+.contabilidade-para-ind-stria {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 498px;
+  top: 665px;
+  -webkit-text-stroke: 1px #000000;
+}
+.frame-11 {
+  width: 1355px;
+  height: 250px;
+  position: absolute;
+  left: 0px;
+  top: 1707px;
+  overflow: hidden;
+}
+.a-loyal-contabilidade-a-escolha-certa-para-voc-e-vou-te-mostrar-os-motivos {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 37px;
+  width: 996px;
+}
+.nossa-equipe-oferece-solu-es-personalizadas-para-ajudar-a-reduzir-seus-custos-e-aumentar-seus-lucros-conte-com-nosso-atendimento-humanizado-dispon-vel-at-as-22-h-via-whats-app-para-tirar-todas-as-suas-d-vidas-e-ajudar-no-crescimento-do-seu-neg-cio {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 138px;
+  width: 1076px;
+  height: 92px;
+}
+.frame-3 {
+  width: 1363px;
+  height: 71px;
+  position: absolute;
+  left: 53px;
+  top: 16px;
+  overflow: hidden;
+}
+.frame-2 {
+  background: #ffffff;
+  width: 1385px;
+  height: 469px;
+  position: absolute;
+  left: 0px;
+  top: 87px;
+  overflow: hidden;
+}
+.frame-6 {
+  width: 1370px;
+  height: 458px;
+  position: absolute;
+  left: -13px;
+  top: 87px;
+}
+.descomplique-sua-gest-o-financeira-e-foque-no-crescimento-da-sua-empresa-com-um-suporte-cont-bil-estrat-gico-e-seguro {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 378px;
+  top: 207px;
+  width: 645px;
+}
+.solu-es-cont-beis-inteligentes-para-o-sucesso-do-seu-neg-cio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 81px;
+  width: 733px;
+  height: 116px;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.frame-7 {
+  background: #e4c619;
+  width: 249px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 130.5px);
+  top: 420px;
+  overflow: hidden;
+}
+.clique-e-saiba-mais {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 19px;
+  top: 7px;
+  width: 225px;
+  height: 36px;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.frame-4 {
+  width: 1355px;
+  height: 1042px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.pre-o-baixo {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 114px;
+  top: 1996px;
+  width: 176px;
+  height: 31px;
+  -webkit-text-stroke: 1px #000000;
+}
+.sifrao-1 {
+  width: 64.83px;
+  height: 63px;
+  position: absolute;
+  left: 51px;
+  top: 1981px;
+  object-fit: cover;
+  aspect-ratio: 64.83/63;
+}
+.fone-1 {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 63px;
+  top: 2122px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: 776.98px;
+  top: 1990px;
+  width: 44px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(88.564deg) scale(1, 1);
+  -webkit-text-stroke: 1px #000000;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: 736px;
+  top: 2122.27px;
+  width: 44px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(-0.354deg) scale(1, 1);
+  -webkit-text-stroke: 1px #000000;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: 734px;
+  top: 2205.27px;
+  width: 44px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(-0.354deg) scale(1, 1);
+  -webkit-text-stroke: 1px #000000;
+}
+.abert-1 {
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 51px;
+  top: 2302px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: 732px;
+  top: 2299.27px;
+  width: 44px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(-0.354deg) scale(1, 1);
+  -webkit-text-stroke: 1px #000000;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  position: absolute;
+  left: 732px;
+  top: 2416.27px;
+  width: 44px;
+  height: 48px;
+  transform-origin: 0 0;
+  transform: rotate(-0.354deg) scale(1, 1);
+  -webkit-text-stroke: 1px #000000;
+}
+.atendimento-via-whats-app {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 144px;
+  top: 2136px;
+  -webkit-text-stroke: 1px #000000;
+}
+.bras-1 {
+  width: 84.36px;
+  height: 91px;
+  position: absolute;
+  left: 47px;
+  top: 2197px;
+  object-fit: cover;
+  aspect-ratio: 84.36/91;
+}
+.engre-1 {
+  width: 146.45px;
+  height: 105px;
+  position: absolute;
+  left: 10px;
+  top: 2401px;
+  object-fit: cover;
+  aspect-ratio: 146.45/105;
+}
+.notebook {
+  width: 516.17px;
+  height: 434px;
+  position: absolute;
+  left: 783px;
+  top: 2006px;
+  object-fit: cover;
+  aspect-ratio: 516.17/434;
+}
+.todo-brasil {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 141px;
+  top: 2229px;
+  -webkit-text-stroke: 1px #000000;
+}
+.abertura-de-empresa-gr-tis {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 141px;
+  top: 2323px;
+  width: 256px;
+  height: 47px;
+  -webkit-text-stroke: 1px #000000;
+}
+.tecnologia-que-trabalha-para-voc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 141px;
+  top: 2425px;
+  -webkit-text-stroke: 1px #000000;
+}
+.frame-122 {
+  background: #effeff;
+  width: 1387px;
+  height: 806px;
+  position: absolute;
+  left: -2px;
+  top: 2546px;
+  overflow: hidden;
+}
+.diferenciais {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 26px;
+  top: 2603px;
+  width: 131px;
+  height: 60px;
+  -webkit-text-stroke: 1px #000000;
+}
+.outras-contabilidade-online {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 745px;
+  top: 2582px;
+  width: 266px;
+  height: 80px;
+  -webkit-text-stroke: 1px #000000;
+}
+.contabilidade-tradicional {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 1074px;
+  top: 2584px;
+  width: 250px;
+  height: 63px;
+  -webkit-text-stroke: 1px #000000;
+}
+.image-8 {
+  width: 157.54px;
+  height: 60px;
+  position: absolute;
+  left: 466px;
+  top: 2573px;
+  object-fit: cover;
+  aspect-ratio: 157.54/60;
+}
+.padr-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 1148px;
+  top: 2726px;
+}
+.start {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 531px;
+  top: 2726px;
+}
+.online {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 832px;
+  top: 2726px;
+}
+.importa-o-de-notas-autom-ticas {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 29px;
+  top: 2838px;
+}
+.plano {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 31px;
+  top: 2726px;
+}
+.folha-de-pagamento-e-pr-labore {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 31px;
+  top: 3028px;
+}
+.atendimento-at-s-22-hs-por-whatsapp-e-mail-e-chat {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 31px;
+  top: 3123px;
+  width: 440px;
+}
+.importa-o-e-classifica-o-de-extratos-autom-tico {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 31px;
+  top: 2904px;
+  width: 455px;
+}
+.atendimento-em-todo-o-brasil {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 31px;
+  top: 3247px;
+}

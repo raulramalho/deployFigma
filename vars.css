@@ -1,0 +1,20 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --titulo: rgba(0, 0, 0, 0.18);
+
+  /* Fonts */
+  --titulo-font-family: Inter-ExtraLight, sans-serif;
+  --titulo-font-size: 12px;
+  --titulo-line-height: normal;
+  --titulo-font-weight: 200;
+  --titulo-font-style: normal;
+  --texto-font-family: Inter-ExtraLight, sans-serif;
+  --texto-font-size: 9px;
+  --texto-line-height: normal;
+  --texto-font-weight: 200;
+  --texto-font-style: normal;
+
+  /* Effects */
+}
+/* Figma Color Variables of your File */
